@@ -1,7 +1,7 @@
 ---
 title: Adding Table Of Content in Word
 date: 2023-03-17 11:40:00 -500
-categories: [software, howto]
+categories: [Tips]
 tags: [typing, word, office]
 ---
 
