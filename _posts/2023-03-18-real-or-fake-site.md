@@ -7,9 +7,9 @@ tags: [guide, safety]
 
 Some advice (TIPS)
 
-    Real site or fake site? It’s not always easy to browse the web. How to avoid internet scams?
+:    Real site or fake site? It’s not always easy to browse the web. How to avoid internet scams?
 
-➖➖
+---
 
     NB: before you get into online business, start by training in the field you are targeting. It is very very important to train first ❕❕❕❕❕❕❕❕❕❕❕
 
@@ -31,8 +31,10 @@ Be careful, if you don't find any information via WHOIS, the site you are visiti
 
 7. Learn to spot a ponzi scheme. Indeed, a Ponzi scheme is a fraudulent financial arrangement which consists in remunerating clients' investments mainly with funds provided by new entrants. If the scam is not discovered, it appears in broad daylight when it collapses, that is to say when the sums provided by new entrants are no longer sufficient to cover the salaries of the old ones. It takes its name from Charles Ponzi. Let's imagine that someone offers an investment at 100% interest: you give him 10 euros, he returns 20 euros using the money deposited by the following clients (he just needs to offer a return double the returns known in the market to attract customers and to last). The system is viable as long as the clientele arrives, attracted en masse by the financial promises (and all the more tempting when the first investors are satisfied and make a formidable advertisement for the placement). The first clients, too happy with this wonderful investment, put their money back too, adding to all those they managed to convince. When a platform promises you high interest rates in such a short time or double your earnings if you invite other people run away because it's a ponzi scheme
 
-➖➖
+
+---
 
 Here it ends, but those are just a few things to look out for. Stay save and always be vigilant.
 
 We made a video that explains the processes in this tutorial in detail, clear explanations  and example demonstrations. If you wish to check it out, Here is the video link, https://youtu.be/1V2Igv-KIuU.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1V2Igv-KIuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
