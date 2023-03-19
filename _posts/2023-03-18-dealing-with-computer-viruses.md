@@ -6,7 +6,9 @@ tags: [guide, encryption, devices]
 ---
 
 
-  >  Using computers, there's no guarantee that you'll never have to deal with a virus at some point in time.
+  >  **Using computers, there's no guarantee that you'll never have to deal with a virus at some point in time.**
+
+![computer-viruses.jpg](https://i.postimg.cc/JnQwzmbj/computer-viruses.jpg)
 
 Some spread through portable drives, downloaded files, among others.
 

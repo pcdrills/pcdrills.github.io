@@ -2,7 +2,8 @@
 - Security
 - Tips
 - Tutorial
--
+- 
+- Installations
 - Hardware
 - Software
 - Networking

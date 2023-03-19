@@ -9,6 +9,8 @@ tags: [typing, word, office]
 
  Hello to all our readers. If you are hear today, it's either you wish to learn something new or support in the growth of our work through your suggestions.
 
+![table-of-contents.jpg](https://i.postimg.cc/fRWfGsb6/table-of-contents.jpg)
+
 How ever, everyone is here for the weekly tutorial review. Today, our tutorial goes as follows;
 
     Adding An Automatic Table Of Content To A Word Document.

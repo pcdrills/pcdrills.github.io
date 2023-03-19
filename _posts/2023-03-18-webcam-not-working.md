@@ -5,7 +5,9 @@ categories: [Tips]
 tags: [guide, devices]
 ---
 
-When your webcam doesn't work, be it inbuilt or external, the fixes you can apply are fairly similar.
+**When your webcam doesn't work, be it inbuilt or external, the fixes you can apply are fairly similar.**
+
+![webcam-image](https://i.postimg.cc/c4mNFkQH/pexels-photo-6937660.jpg)
 
 You can try:
 
