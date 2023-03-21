@@ -2,13 +2,18 @@
 - Security
 - Tips
 - Tutorial
-- 
+- Programming
+-
 - Installations
 - Hardware
 - Software
 - Networking
-- Programming
 - tech news
 -  microsoft
 
 # Tags
+windows
+
+# Cats and Tags
+-Programming
+---python
