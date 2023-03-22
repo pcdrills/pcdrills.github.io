@@ -2,7 +2,7 @@
 title: Adding Table Of Content in Word
 image: https://i.postimg.cc/fRWfGsb6/table-of-contents.jpg
 date: 2023-03-17 11:40:00 -500
-categories: [Tipsl, Howto]
+categories: [Tips, Howto]
 tags: [typing, word, office]
 ---
 
