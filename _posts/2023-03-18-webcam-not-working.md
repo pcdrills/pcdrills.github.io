@@ -6,7 +6,7 @@ categories: [Tips, Howto]
 tags: [guide, devices, webcam]
 ---
 
-**When your webcam doesn't work, be it inbuilt or external, the fixes you can apply are fairly similar.**
+When your webcam doesn't work, be it inbuilt or external, the fixes you can apply are fairly similar.
 
 
 

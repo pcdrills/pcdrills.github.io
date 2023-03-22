@@ -6,9 +6,9 @@ categories: [Security, Cybersecurity]
 tags: [guide, safety, online]
 ---
 
-# Some advice (TIPS)
+Some advice (TIPS)
 
-:    **Real site or fake site? It’s not always easy to browse the web. How to avoid internet scams?**
+Real site or fake site? It’s not always easy to browse the web. How to avoid internet scams?
 
 ---
 

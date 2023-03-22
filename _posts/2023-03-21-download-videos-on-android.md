@@ -6,8 +6,8 @@ categories: [Tutorial, Android]
 tags: [guide, android, download, youtube, videos]
 ---
 
-Have you ever seen a **trending** video, song, fun image on **Facebook** or **Instagram** or any other website that you might want to keep on your phone, but there's just no **"download button"** to save it?
-*Stressful, right?* 
+Have you ever seen a trending video, song, fun image on Facebook or Instagram or any other website that you might want to keep on your phone, but there's just no "download button" to save it?
+Stressful, isn't it?
 
 
 > But this time around, on PC Drills, that is what we handled.

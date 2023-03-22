@@ -6,7 +6,7 @@ categories: [Tipsl, Howto]
 tags: [typing, word, office]
 ---
 
-## Adding An Automatic Table Of Content To A Word Document
+Adding An Automatic Table Of Content To A Word Document on Microsoft Word
 
  Hello to all our readers. If you are hear today, it's either you wish to learn something new or support in the growth of our work through your suggestions.
 
