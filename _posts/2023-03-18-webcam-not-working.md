@@ -1,5 +1,6 @@
 ---
 title: Webcam not working
+image: https://i.postimg.cc/c4mNFkQH/pexels-photo-6937660.jpg
 date: 2023-03-18 11:40:00 -500
 categories: [Tips, Howto]
 tags: [guide, devices, webcam]
@@ -7,7 +8,7 @@ tags: [guide, devices, webcam]
 
 **When your webcam doesn't work, be it inbuilt or external, the fixes you can apply are fairly similar.**
 
-![webcam-image](https://i.postimg.cc/c4mNFkQH/pexels-photo-6937660.jpg)
+
 
 You can try:
 

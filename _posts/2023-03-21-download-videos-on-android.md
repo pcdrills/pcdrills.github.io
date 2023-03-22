@@ -1,5 +1,6 @@
 ---
 title: Download Videos on Android Phone
+image: https://i.postimg.cc/Fs529k6G/online-videos.jpg
 date: 2023-03-19 11:40:00 -500
 categories: [Tutorial, Android]
 tags: [guide, android, download, youtube, videos]
@@ -8,7 +9,6 @@ tags: [guide, android, download, youtube, videos]
 Have you ever seen a **trending** video, song, fun image on **Facebook** or **Instagram** or any other website that you might want to keep on your phone, but there's just no **"download button"** to save it?
 *Stressful, right?* 
 
-![online-videos.jpg](https://i.postimg.cc/Fs529k6G/online-videos.jpg)
 
 > But this time around, on PC Drills, that is what we handled.
 {: .prompt-tip}

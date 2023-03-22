@@ -1,5 +1,6 @@
 ---
 title: Is the site Real or Fake?
+image: https://i.postimg.cc/P5Q4CxC3/real-or-fake-website.jpg
 date: 2023-03-18 11:40:00 -500
 categories: [Security, Cybersecurity]
 tags: [guide, safety, online]
@@ -11,7 +12,6 @@ tags: [guide, safety, online]
 
 ---
 
-![real-or-fake-website.jpg](https://i.postimg.cc/P5Q4CxC3/real-or-fake-website.jpg)
 
 >    NB: Before you get into online business, start by tlearning more about the sites you should and should not be dealing with.
 It is very very important to learn first so as to alway know the risk involved. ❕❕❕❕❕❕❕❕❕❕❕
