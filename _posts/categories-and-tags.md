@@ -4,16 +4,34 @@
 - Tutorial
 - Programming
 -
-- Installations
+
+
+# Security Sub Categories
+- Cybersecurity
+- Encryption
+- Malware
+
+# Tips Sub Categories
+- Websites
 - Hardware
 - Software
+- HowTo
+- 
+
+
+# Tutorials Sub Categories
+- Programming
+- Installations
+- Linux
+- Windows
 - Networking
-- tech news
--  microsoft
+- Android
+
+# Programming Sub Categories
+- Python
+- HTML
 
 # Tags
 windows
 
-# Cats and Tags
--Programming
----python
+

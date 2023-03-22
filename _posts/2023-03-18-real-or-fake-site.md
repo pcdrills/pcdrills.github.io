@@ -1,8 +1,8 @@
 ---
 title: Is the site Real or Fake?
 date: 2023-03-18 11:40:00 -500
-categories: [Security]
-tags: [guide, safety]
+categories: [Security, Cybersecurity]
+tags: [guide, safety, online]
 ---
 
 # Some advice (TIPS)

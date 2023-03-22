@@ -1,8 +1,8 @@
 ---
 title: Encrypt your Devices.
 date: 2023-03-18 11:40:00 -500
-categories: [Security]
-tags: [guide, safety, devices]
+categories: [Security, Encryption]
+tags: [guide, safety, devices, encrypt]
 ---
 
 

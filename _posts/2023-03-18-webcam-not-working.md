@@ -1,8 +1,8 @@
 ---
 title: Webcam not working
 date: 2023-03-18 11:40:00 -500
-categories: [Tips]
-tags: [guide, devices]
+categories: [Tips, Howto]
+tags: [guide, devices, webcam]
 ---
 
 **When your webcam doesn't work, be it inbuilt or external, the fixes you can apply are fairly similar.**

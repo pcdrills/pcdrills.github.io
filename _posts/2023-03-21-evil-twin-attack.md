@@ -1,8 +1,8 @@
 ---
 title: Evil Twin Attack
 date: 2023-03-21 11:40:00 -500
-categories: [Tutorial]
-tags: [guide, devices, android, download, youtube]
+categories: [Security, Cybersecurity]
+tags: [hacking, wifi, network, vpn, https]
 ---
 
 Let's talk a little on cybersecurity

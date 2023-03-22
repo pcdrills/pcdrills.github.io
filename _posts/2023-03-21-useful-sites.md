@@ -1,8 +1,8 @@
 ---
-title: Mobile Money Scam Part 01
+title: List of Useful Websites
 date: 2023-03-21 11:40:00 -500
-categories: [Tips]
-tags: [websites]
+categories: [Tips, Websites]
+tags: [useful-sites]
 ---
 
 

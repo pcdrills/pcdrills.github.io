@@ -1,7 +1,7 @@
 ---
 title: Dealing with Computer Viruses
 date: 2023-03-17 11:40:00 -500
-categories: [Security]
+categories: [Security, Malware]
 tags: [guide, encryption, devices]
 ---
 
