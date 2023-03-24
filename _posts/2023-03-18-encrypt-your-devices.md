@@ -1,14 +1,13 @@
 ---
 title: Encrypt your Devices.
 date: 2023-03-18 11:40:00 -500
+image: https://i.postimg.cc/Rh6CykzK/encrypt-your-devices.jpg
 categories: [Security, Encryption]
 tags: [guide, safety, devices, encrypt]
 ---
 
 
 When data is **encrypted** , it turns into a seemingly random collection of characters, unless of course you have the decryption key! This is commonly used in messaging apps ( read here for how [https://spreadprivacy.com/how-to-send-private-messages/](https://spreadprivacy.com/how-to-send-private-messages/) ), but it's also easy to encrypt all the data on a device, thanks to this usually being built-in to its operating system. So now there's no excuse not to protect your privacy in this manner!
-
-![encrypt-your-devices.jpg](https://i.postimg.cc/Rh6CykzK/encrypt-your-devices.jpg)
 
 Follow the steps below for encrypting the devices relevant for you. Once complete, you will only need to enter a password when turning on or waking up your device to automatically decrypt your data.
 
