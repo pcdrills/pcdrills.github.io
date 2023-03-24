@@ -1,6 +1,6 @@
 ---
 title: Encrypt your Devices.
-date: 2023-03-18 11:40:00 -500
+date: 2023-03-18 11:40:00 +60
 image: https://i.postimg.cc/Rh6CykzK/encrypt-your-devices.jpg
 categories: [Security, Encryption]
 tags: [guide, safety, devices, encrypt]

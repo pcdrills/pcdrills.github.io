@@ -1,7 +1,7 @@
 ---
 title: Install Python on Windows
 image: https://i.postimg.cc/6qdQSCgP/python-programming-language-img.jpg
-date: 2023-03-21 11:40:00 -500
+date: 2023-03-21 11:40:00 +60
 categories: [Tutorial, Programming, Installations]
 tags: [python, windows]
 ---

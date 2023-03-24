@@ -1,6 +1,6 @@
 ---
 title: Evil Twin Attack
-date: 2023-03-21 11:40:00 -500
+date: 2023-03-21 11:40:00 +60
 image: https://i.postimg.cc/CKqnQtfp/evil-twin-02.jpg
 categories: [Security, Cybersecurity]
 tags: [hacking, wifi, network, vpn, https]

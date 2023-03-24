@@ -1,6 +1,6 @@
 ---
 title: Computer Screen got Rotated
-date: 2023-03-21 11:40:00 -500
+date: 2023-03-21 11:40:00 +60
 categories: [Tutorial, Windows]
 tags: [screen, rotated, settings, display]
 ---

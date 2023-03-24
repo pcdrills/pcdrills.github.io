@@ -1,7 +1,7 @@
 ---
 title: Webcam not working
 image: https://i.postimg.cc/c4mNFkQH/pexels-photo-6937660.jpg
-date: 2023-03-18 11:40:00 -500
+date: 2023-03-18 11:40:00 +60
 categories: [Tips, Howto]
 tags: [guide, devices, webcam]
 ---
