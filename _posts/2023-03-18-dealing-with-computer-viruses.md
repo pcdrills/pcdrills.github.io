@@ -30,3 +30,7 @@ To stay up to date with this kinds tips, simply subscribe to our telegram channe
 For all your questions and suggestions, please kindly mail them to us or comment where ever you find us. Simply search for #pcdrills and we'll be glad to respond.
 
 Bye for now.
+
+---
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)

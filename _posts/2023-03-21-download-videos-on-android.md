@@ -59,4 +59,6 @@ Thank you for stopping by.
 
 Thank you for watching and waiting for your feedback🤜🤛
 
-[https://youtu.be/xwgyTX-Ss4o](https://youtu.be/xwgyTX-Ss4o)
+--- 
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)

@@ -51,3 +51,5 @@ It is very very important to learn first so as to alway know the risk involved. 
 
 We made a video that explains the processes in this tutorial in detail, clear explanations  and example demonstrations. If you wish to check it out, Here is the video link, [https://youtu.be/1V2Igv-KIuU.](https://youtu.be/1V2Igv-KIuU.)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1V2Igv-KIuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)

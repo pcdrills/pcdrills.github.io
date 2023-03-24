@@ -60,4 +60,4 @@ tags: [useful-sites]
 
 26. sizeasy.com :- Visualize and compare the size of any product.
 
-[Telegram Channel](https://t.me/pcdrills/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)

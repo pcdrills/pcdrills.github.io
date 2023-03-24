@@ -27,3 +27,7 @@ Doing this is very simple to those who have been doing it and seem complicated t
 Without making the theory too long, let's get practical about it. Follow up through the video and hopefully you'll get the idea. For any questions, contact us throught any of the links you find on this site. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ejj0-I0Vi5k" title="Fully explained - Generate and use automatic table of contents on a Word Document | PC Drills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)

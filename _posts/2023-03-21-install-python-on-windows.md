@@ -34,4 +34,4 @@ Python should appear in this list.
 
 Share and support us 💜
 
-[Telegram](https://t.me/pcdrills/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
