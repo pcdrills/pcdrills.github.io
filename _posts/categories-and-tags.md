@@ -3,13 +3,15 @@
 - Tips
 - Tutorial
 - Programming
--
+- Windows
+- Settings
 
 
 # Security Sub Categories
 - Cybersecurity
 - Encryption
 - Malware
+- antivirus
 
 # Tips Sub Categories
 - Websites
@@ -31,7 +33,8 @@
 - Python
 - HTML
 
-# Tags
-windows
+# Windows sub Categories
+windows10
+Troubleshooting
 
 

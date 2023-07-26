@@ -1,0 +1,30 @@
+---
+title: Setup and Manage User Accounts on Windows
+image: https://i.postimg.cc/g2rdyqjz/account-settings.jpg
+date: 2023-07-26 07:50:00 +60
+categories: [Tutorial, Settings]
+tags: [windows]
+---
+
+
+To set up and manage user accounts and permissions in Windows 10:
+
+1. Open the Start menu and go to Settings.
+
+2. Click on "Accounts" to access the account settings.
+
+3. To add a new user account, click on "Family & other users" and then click on "Add someone else to this PC." Follow the on-screen instructions to create a new user account.
+
+4. To manage existing user accounts, click on "Family & other users" and select the account you want to manage. From here, you can change the account type (administrator or standard user), remove the account, or manage account settings such as password and sign-in options.
+
+5. To manage user permissions, click on "Family & other users" and select the account you want to manage. Click on "Change account type" and choose between Administrator or Standard User. Administrator accounts have full control over the computer, while Standard User accounts have limited access and cannot make system changes.
+
+6. To control app and file access for a specific user, click on "Apps & features" or "Files & folders" in the account settings. From here, you can customize which apps and files the user can access.
+
+Note: Only administrators can create and manage user accounts, change account types, and modify permissions.
+
+Bye for now. 
+
+---
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
