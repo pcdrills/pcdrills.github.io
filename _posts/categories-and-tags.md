@@ -5,18 +5,19 @@
 - Programming
 - Windows
 - Settings
+- Devices
 
 
 # Security Sub Categories
-- Cybersecurity
-- Encryption
-- Malware
+- cybersecurity
+- encryption
+- malware
 - antivirus
 
 # Tips Sub Categories
-- Websites
-- Hardware
-- Software
+- websites
+- hardware
+- software
 - HowTo
 - 
 
@@ -36,6 +37,10 @@
 # Windows sub Categories
 windows10
 Troubleshooting
+
+# Devices sub categories
+- Laptops
+- Quality
 
 
 
