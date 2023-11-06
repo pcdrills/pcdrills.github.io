@@ -64,5 +64,10 @@ Would you like such tips daily?
 Follow Us & Give feedback please.
 
 ---
+ 
+Bye for now.
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+---
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

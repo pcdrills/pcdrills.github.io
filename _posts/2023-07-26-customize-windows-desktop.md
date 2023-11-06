@@ -35,8 +35,9 @@ Customizing the Windows 10 desktop and personalizing your settings can help you 
 Remember to click "Apply" or "Save" after making any changes to ensure they take effect. Enjoy customizing your Windows 10 desktop to reflect your personal style and preferences!
 
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

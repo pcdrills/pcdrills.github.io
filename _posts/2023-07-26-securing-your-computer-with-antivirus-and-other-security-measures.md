@@ -69,6 +69,9 @@ Stay up to date with the latest security threats and best practices for online s
 
 Bye for now. 
 
+--- 
+
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

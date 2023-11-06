@@ -44,8 +44,9 @@ Once you've set a password, you will need to enter it every time you log in to y
 {: .prompt-danger}
 
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

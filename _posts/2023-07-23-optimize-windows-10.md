@@ -71,8 +71,9 @@ Remember to regularly maintain your computer by keeping it clean from dust, runn
 
 
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

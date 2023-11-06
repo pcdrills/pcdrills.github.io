@@ -59,5 +59,9 @@ tags: [useful-sites]
 25. spypig.com :- Now get read receipts for your email.
 
 26. sizeasy.com :- Visualize and compare the size of any product.
+ 
+Bye for now.
+---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

@@ -117,8 +117,9 @@ Regularly create system restore points for your computer. If your system gets in
 {: .prompt-tip}
 
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

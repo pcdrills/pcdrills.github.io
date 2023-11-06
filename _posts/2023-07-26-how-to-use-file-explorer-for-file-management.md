@@ -82,8 +82,9 @@ Right-click on a file, select "Properties," and a window will open with informat
 
 These are just some of the basic features and functions of the Windows 10 File Explorer. Experiment with different options and settings to find a file management and organization system that works best for you.
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

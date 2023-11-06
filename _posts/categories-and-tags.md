@@ -38,3 +38,10 @@ windows10
 Troubleshooting
 
 
+
+Bye for now.  
+
+---
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

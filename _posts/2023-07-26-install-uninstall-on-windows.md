@@ -29,8 +29,9 @@ To uninstall software applications on Windows 10:
 
 Note: Some applications may require you to use their specific uninstaller, which can usually be found in the application's installation folder or in the Windows Control Panel under "Programs and Features."
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

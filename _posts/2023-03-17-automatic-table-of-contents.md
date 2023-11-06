@@ -28,6 +28,10 @@ Without making the theory too long, let's get practical about it. Follow up thro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ejj0-I0Vi5k" title="Fully explained - Generate and use automatic table of contents on a Word Document | PC Drills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+Bye for now.  
+
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

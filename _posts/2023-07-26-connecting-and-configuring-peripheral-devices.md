@@ -58,8 +58,9 @@ Once the peripheral device is connected, you may need to configure its settings.
 It's important to note that the exact steps may vary slightly depending on the specific peripheral device and its manufacturer. Always refer to the device's user manual or the manufacturer's website for detailed instructions on connecting and configuring the device with Windows 10.
 
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

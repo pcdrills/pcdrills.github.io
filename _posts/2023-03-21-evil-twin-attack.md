@@ -83,6 +83,12 @@ To get more updates.
 We're available on 
 Facebook and Telegram.
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+
+Bye for now.  
+
+---
+
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+
 
 See you around

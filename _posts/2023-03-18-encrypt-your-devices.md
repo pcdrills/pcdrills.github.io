@@ -79,6 +79,10 @@ And for further information, this guide to encryption [https://ssd.eff.org/en/mo
 
 > We got this from Duckduckgo. You can read about them and subscribe to their newsletter. Until then, follow up with #pcdrills and we keep  you updated with such info anywhere we find it.
 
+
+Bye for now.  
+
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

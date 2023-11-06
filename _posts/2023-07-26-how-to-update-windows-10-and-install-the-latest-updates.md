@@ -35,8 +35,9 @@ Updating Windows 10 is an important task to ensure that your computer is running
 
 Remember to keep your computer connected to the internet during the update process, as it requires a stable internet connection to download and install the updates.
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+

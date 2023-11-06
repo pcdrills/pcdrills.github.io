@@ -70,8 +70,9 @@ If you're experiencing issues that might be caused by third-party software, perf
 If none of these troubleshooting steps resolve your issue, you may need to seek additional help from Microsoft support or a professional technician.
 
 
-Bye for now. 
+Bye for now.  
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/)
+Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills)
+
