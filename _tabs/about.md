@@ -5,9 +5,9 @@ order: 4
 ---
 
 ![Resolving](/assets/img/hero-img.png)
-> A team of IT Engineers, there to make sure your business runs without a hinge computer related.
+> A team of IT Engineers, Available to make sure your business / Environment runs without a hinge computer related.
 Started as an initiative of the [Computer Problems Handler group](https://facebook.com/groups/computerproblemshandler), expanding it's service to those in need.
-Handle your computer issues as fast and as simple as never before. All you have to do is forward you inquiry to us and we help you resolve it by using all the necessary information you provide. We help you with your help.
+Handle your computer issues as fast and as simple as never before. All you have to do is forward you inquiry to us and we help you resolve it by using all the necessary information you provide. We help you with your help 🤝.
 {: .prompt-tip }
 
 ## Our Values
@@ -16,7 +16,7 @@ Handle your computer issues as fast and as simple as never before. All you have 
 
 #### Our Core Value
 
-> We deliver IT services to you at your door steps. Order a maintenance service just as you order an item on an e-commerce site. As simple as that. All you have to do is get in touch. We deliver services throughout the country, at your Home, Office, School, Resturants, and Internationally (with the help of social media) etc
+> We deliver IT services to you at your door steps. Order a maintenance service just as you order an item on an e-commerce site. As simple as that. All you have to do is get in touch. We deliver services throughout the country, at your Home, Office, School, Resturants, and Internationally (with the help of social media and other partners we collaborate with) etc
 {: .prompt-tip }
 
 #### Teamwork
@@ -26,7 +26,7 @@ Handle your computer issues as fast and as simple as never before. All you have 
 
 #### Background
 
-> PC Drills is a group of computer engineers, with various levels of competence, ready to deliver to you IT services, right at your door steps. You don't have to travel or move out just to get your computer repaired. You don't have to wait days because you devices aren't permitting you to work normally. At PC Drills, That's not more something you should worry about. Just contact us and You leave it to us.
+> PC Drills is a group of computer engineers, with various levels of competence, ready to deliver to you IT services, right at your door steps. You don't have to travel or move out just to get your computer repaired. You don't have to wait days because you devices aren't permitting you to work normally. At PC Drills, That's not something you should worry about. Just contact us and You leave the rest to us.
 {: .prompt-tip }
 
 > #### Some of our work qualities
@@ -36,6 +36,7 @@ Handle your computer issues as fast and as simple as never before. All you have 
 > - Quality Service
 > - Available
 > - Affordable
+> - We love what we do
 
 ## Going about resolving an Issue.
 
@@ -73,7 +74,7 @@ If your issue turns out to be a hardware related issue. You have to follow the b
 Get in touch
 {: .prompt-tip }
 
-> Now, you can use any of the available social media platforms that we work with. [Facebook](https://facebook.com/groups/computerproblemshandler), WhatsApp, Telegram, etc. All you need to do is ask your question and we will ask you for any needed specifications before answering. So it's always good to have everything needed before asking. Better ready than not.
+> Now, you can use any of the available social media platforms that we work with. [Facebook](https://facebook.com/groups/computerproblemshandler), WhatsApp, Telegram, etc. All you need to do is ask your question and we will ask you for any needed specifications before answering. So it's always good to have everything needed before asking. Better ready than not✍️.
 {: .prompt-tip }
 
 
@@ -89,7 +90,7 @@ Most at times, the solution might come with various proposals. Just try one at a
 {: .prompt-tip }
 
 ### PC SETUP
-> With PC Drills, we do more than just plug in your computer, a PC Drills tch will setup your new system so you can start computer with efficiency and security. Our PC Drills techs can run all necessary updates, set up free antivirus software, create accounts, and give you a personal tour of your operating system...[-]
+> With PC Drills, we do more than just plug in your computer, a PC Drills technician will setup your new system so you can start computer with efficiency and security. Our PC Drills techs can run all necessary updates, set up free antivirus software, install all necessary software with needed drivers, create accounts, and give you a personal tour of your operating system...[-]
 {: .prompt-tip }
 
 ### DATA TRANSFER
@@ -125,7 +126,7 @@ Most at times, the solution might come with various proposals. Just try one at a
 
 <details>
 <summary>Where are you located?</summary>
-Physically, available in Douala and Buea for any on-site intervention.But virtually, we are on many social media platforms, delivering the help where ever needed.
+Physically, available in Douala and Buea for any on-site intervention.But virtually, we are on many social media platforms, delivering help where ever needed. Even from the comfort of you home or office, you can write to us online.
 </details>
 
 <details>
@@ -137,17 +138,18 @@ Here's a link to our FACEBOOK PAGE-> https://facebook.com/pcdrillsofficial
 <details>
 <summary>What if my issue needs on-site </summary>
 assistance?
-We come to you, depending if it's possible.
+We come to you, depending on if it's possible.
 </details>
 
 <details>
 <summary>What if we aren't in the same country?</summary>
-We only work in other countries remotely, any on-site tasks aren't yet available internationally. Hopefully, there will be in the future. 
+We only work in other countries remotely, any on-site tasks aren't yet available internationally. Hopefully, there will be in the nearest future. 
 </details>
 
 <details>
 <summary>How much do you charge for your services?</summary>
 Well, on PC Drills, most virtual assistance is free, but for on-site interventions, charging depends on the type of work and the time taken to resolve the issue. 
+How ever with your kind heart, we plead on you to encourage our work as much as you can.🫶
 </details>
 
 <details>
@@ -158,4 +160,17 @@ All you need to do is use any of the means available like Orange Money and MTN M
 <details>
 <summary>What do I need to do to get remote assistance?</summary>
 You just have to find a way to contact, mostly through our social media and explain your issue. Once done, we'll perform some inquires to get some answers of the issues related to you problem. Behold, we'll get back to you with a solution soon.  
+</details>
+
+<details>
+<summary>why can't I find your WhatsApp contact on this site? Do you use WhatsApp?</summary>
+Yes, we use WhatsApp. 
+Not seeing our WhatsApp contact here is because it might be subjected to change in the future and publicly sharing phone numbers will invite more spams. Just write to us on Facebook, we will give you our WhatsApp contact for a direct conversation. 
+Thank you 
+</details>
+
+<details>
+<summary>Which days are you available?</summary>
+We active throughout, if we don't respond immediately, please give us some time.
+We value your time 💜
 </details>
