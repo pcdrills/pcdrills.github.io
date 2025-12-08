@@ -163,7 +163,7 @@ You just have to find a way to contact, mostly through our social media and expl
 </details>
 
 <details>
-<summary>why can't I find your WhatsApp contact on this site? Do you use WhatsApp?</summary>
+<summary>Why can't I find your WhatsApp contact on this site? Do you use WhatsApp?</summary>
 Yes, we use WhatsApp. 
 Not seeing our WhatsApp contact here is because it might be subjected to change in the future and publicly sharing phone numbers will invite more spams. Just write to us on Facebook, we will give you our WhatsApp contact for a direct conversation. 
 Thank you 
