@@ -24,5 +24,5 @@ Bye for now.
 
 ---
 
-Follow | [Telegram Channel](https://t.me/pcdrills/) | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Twitter Handle](https://twitter.com/pc_drills) | [Youtube Channel](https://youtube.com/pcdrills)
+Follow | [Facebook Page](https://facebook.com/pcdrillsofficial/) | [Telegram Channel](https://t.me/pcdrills/) | [Twitter Handle](https://twitter.com/pc_drills) | [Youtube Channel](https://youtube.com/pcdrills)
 
