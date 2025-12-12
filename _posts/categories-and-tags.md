@@ -33,6 +33,8 @@
 # Programming Sub Categories
 - Python
 - HTML
+- Git 
+- Github
 
 # Windows sub Categories
 windows10
